@@ -1,0 +1,12 @@
+name = "Ceres"
+uuid = "7b820e50-f2ad-11e8-0d21-35cebf376b80"
+version = "0.1.0"
+
+[deps]
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Rotations = "6038ab10-8711-5258-84ad-4b1120ba62dc"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+CeresSolver_jll = "274fe647-06be-54d6-af78-99f37f3755f2"
+CeresCApi_jll = "74f8138f-d739-58f6-87a7-30291b36a8e9"
