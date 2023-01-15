@@ -214,7 +214,7 @@ function AddResidualBlock!(problem::Problem,
         C_NULL
     else
         @assert loss_function.c_ptr != C_NULL
-        @show loss_function.c_ptr
+        # @show loss_function.c_ptr
         loss_function.c_ptr
     end
 
